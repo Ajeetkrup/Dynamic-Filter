@@ -239,8 +239,3 @@ The bundled `employees.json` contains **55 diverse records** with:
 | Lucide React | 0.x | Icons |
 | json-server | latest | Mock REST API |
 
----
-
-## 📝 License
-
-MIT
